@@ -2,5 +2,6 @@
 
 This is a clone to the oficial Netflix Website
 
-<img src="img/captura.PNG"  />
-![alt text](img/Captura.PNG)
+<img src="img/captura.png"  />
+
+## ![alt text](img/Captura.PNG)
